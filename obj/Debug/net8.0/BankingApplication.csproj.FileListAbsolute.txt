@@ -1,0 +1,14 @@
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\bin\Debug\net8.0\BankingApplication.exe
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\bin\Debug\net8.0\BankingApplication.deps.json
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\bin\Debug\net8.0\BankingApplication.runtimeconfig.json
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\bin\Debug\net8.0\BankingApplication.dll
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\bin\Debug\net8.0\BankingApplication.pdb
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\obj\Debug\net8.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfoInputs.cache
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfo.cs
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\obj\Debug\net8.0\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\obj\Debug\net8.0\BankingApplication.dll
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\obj\Debug\net8.0\refint\BankingApplication.dll
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\obj\Debug\net8.0\BankingApplication.pdb
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\obj\Debug\net8.0\BankingApplication.genruntimeconfig.cache
+C:\Users\jshaik\Downloads\Assignment\BankingApplication\obj\Debug\net8.0\ref\BankingApplication.dll
